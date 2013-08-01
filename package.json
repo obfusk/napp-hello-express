@@ -1,0 +1,8 @@
+{
+  "name"          : "napp-hello-express",
+  "version"       : "0.1.0-SNAPSHOT",
+  "dependencies"  : {
+    "express" : "3.3.4",
+    "moment"  : "2.1.0"
+  }
+}
